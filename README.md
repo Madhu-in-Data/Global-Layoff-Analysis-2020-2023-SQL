@@ -1,15 +1,15 @@
 # Global-Layoff-Analysis-2020-2023-SQL
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
+1. [Project Objective](#project-overview)
 2. [Dataset](#dataset)
 3. [Data Cleaning](#data-cleaning)
 4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 5. [Key Insights](#key-insights)
 6. [Suggestions](#suggestions)
 
-### Project Overview
-This project analyzes layoffs data from various companies between **March 11, 2020, and March 6, 2023**. The primary objectives are to identify trends in layoffs across different industries and countries, understand the factors influencing these layoffs, and provide actionable insights for organizations.
+### Project Objective
+This project aims to analyze layoffs data from various companies between **March 11, 2020, and March 6, 2023**. The primary objectives are to identify trends in layoffs across different industries and countries, understand the factors influencing these layoffs, and provide actionable insights for organizations.
 
 ### Dataset
 The dataset includes the following attributes related to layoffs:
