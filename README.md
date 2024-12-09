@@ -1,7 +1,7 @@
 # Global-Layoff-Analysis-2020-2023-SQL
 
 ## Table of Contents
-1. [Project Objective](#project-overview)
+1. [Project Objective](#project-objective)
 2. [Dataset](#dataset)
 3. [Data Cleaning](#data-cleaning)
 4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
@@ -10,6 +10,8 @@
 
 ### Project Objective
 This project aims to analyze layoffs data from various companies between **March 11, 2020, and March 6, 2023**. The primary objectives are to identify trends in layoffs across different industries and countries, understand the factors influencing these layoffs, and provide actionable insights for organizations.
+
+---
 
 ### Dataset
 The dataset includes the following attributes related to layoffs:
@@ -200,6 +202,9 @@ The exploratory analysis provided key insights into the trends and patterns of l
 - The Consumer and Retail industries experienced significant layoffs, each exceeding **40,000** employees.
 - The United States faced the highest total layoffs, highlighting substantial employment impacts.
 - Post-IPO companies accounted for a disproportionate number of layoffs compared to private firms.
+
+---
+
 
 ### Suggestions
 1. **Strategic Workforce Planning**:
